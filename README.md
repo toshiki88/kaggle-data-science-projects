@@ -5,23 +5,10 @@ Kaggleを活用したデータサイエンスの学習・実践プロジェク�
 
 Projects / プロジェクト一覧
 1. House Prices - Advanced Regression Techniques
-Goal: Predict house sale prices using machine learning.
-Type: Regression
-Platform: Kaggle
-
-機械学習を用いて住宅の販売価格を予測する回帰分析プロジェクトです。データの前処理、特徴量エンジニアリング、モデル構築、評価に取り組んでいます。
 
 2. Spaceship Titanic
-Goal: Predict whether passengers were transported to another dimension.
-Type: Classification
-Platform: Kaggle
 
 3. Titanic - Machine Learning from Disaster
-
-Goal: Predict passenger survival using machine learning. Type: Classification Platform: Kaggle
-
-乗客の生存を予測する分類プロジェクトです。EDA、欠損値処理、特徴量エンジニアリング、複数モデルの比較・評価を行い、最終モデルを選定してKaggleに提出しました。
-乗客が異次元に転送されたかどうかを予測する分類プロジェクトです。データの前処理や特徴量の作成、複数の機械学習モデルの比較を行っています。
 
 Skills & Tools / 使用技術
 Python,
